@@ -4,10 +4,22 @@ As beutiful as a shell. This program tries to recreate/replicate the bash.
 
 [Subject](en.subject.pdf)
 
-## Execute with
- 
+
+## Installation & Usage
+
+Clone this repository to your computer:
+```sh
+git clone https://github.com/MatPizzolo/minishell.git
 ```
-make && ./minishell
+
+First compile and install library
+```sh
+make
+```
+
+Execute with 
+```sh
+./minishell
 ```
 
 ## Credits
