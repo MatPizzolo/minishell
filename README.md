@@ -22,5 +22,8 @@ Execute with
 ./minishell
 ```
 
-## Credits
+<br/>
+<br/>
+
+### Credits
 This program was made with [@llanahp](https://github.com/llanahp)
